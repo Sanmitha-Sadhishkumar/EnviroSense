@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222; /* Very dark background */
+            color: #ddd; /* Light text */
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 36px;
+            font-weight: bold;
+        }
+
+        table {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #333; /* Darker table background */
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Lighter shadow */
+            margin-top: 50px;
+            border-collapse: collapse; /* Remove spacing between table cells */
+        }
+
+        th, td {
+            padding: 15px; /* Increase padding */
+            text-align: left;
+            font-size: 18px;
+            color: #ddd; /* Light text */
+            border-bottom: 1px solid #555; /* Darker border bottom */
+        }
+
+        th {
+            background-color: #444; /* Darker header background */
+            border-bottom: 2px solid #555; /* Darker border bottom */
+            text-transform: uppercase; /* Convert text to uppercase */
+        }
+
+        tr:nth-child(even) {
+            background-color: #444; /* Darker even row background */
+        }
+
+        tr:nth-child(odd) {
+            background-color: #333; /* Darker odd row background */
+        }
+
+        tr:hover {
+            background-color: #555; /* Darker hover row background */
+        }
+
+        td:first-child {
+            border-left: 2px solid #555; /* Darker left border for first column */
+            border-radius: 8px 0 0 8px; /* Rounded left border */
+        }
+
+        td:last-child {
+            border-right: 2px solid #555; /* Darker right border for last column */
+            border-radius: 0 8px 8px 0; /* Rounded right border */
+        }
+
+        td:last-child, th:last-child {
+            text-align: center; /* Center align content in last column */
+        }
+    </style>
+</head>
+<body>
+    <h1>Results</h1>
+    <table>
+        <tr>
+            <th>Category</th>
+            <th>Sensor Value</th>
+        </tr>
+        <tr>
+            <td>Resistive Soil Moisture</td>
+            <td>{{ Soil_Moisture }}</td>
+        </tr>
+        <tr>
+            <td>Capacitive Soil Moisture</td>
+            <td>{{ Cap_Moisture }}</td>
+        </tr>
+        <tr>
+            <td>Humidity</td>
+            <td>{{ Humidity }}</td>
+        </tr>
+        <tr>
+            <td>MQ-135</td>
+            <td>{{ Air_Quality }}</td>
+        </tr>
+        <tr>
+            <td>Sound sensor</td>
+            <td>{{ Sound }}</td>
+        </tr>
+        <tr>
+            <td>Temperature</td>
+            <td>{{ Temperature }}</td>
+        </tr>
+        <tr>
+            <th>Category</th>
+            <th>Prediction</th>
+        </tr>
+        <tr>
+            <td>Earthquake Occurrence</td>
+            <td>{{ occurrence }}</td>
+        </tr>
+        <tr>
+            <td>Earthquake Depth</td>
+            <td>{{ depth }}</td>
+        </tr>
+        <tr>
+            <td>Earthquake Magnitude</td>
+            <td>{{ magnitude }}</td>
+        </tr>
+        <tr>
+            <td>Flood Occurrence</td>
+            <td>{{ flood }}</td>
+        </tr>
+        <tr>
+            <td>Soil Type</td>
+            <td>{{ soil }}</td>
+        </tr>
+        <tr>
+            <td>Sound Pollution</td>
+            <td>{{ sound }}</td>
+        </tr>
+        <tr>
+            <td>Air Pollution</td>
+            <td>{{ air }}</td>
+        </tr>
+        <tr>
+            <td>Max No. of Floors (Resistive Moisture)</td>
+            <td>{{ moisture_floor }}</td>
+        </tr>
+        <tr>
+            <td>Ground Water Level (Resistive Moisture)</td>
+            <td>{{ moisture_ground }} m</td>
+        </tr>
+        <tr>
+            <td>Max No. of Floors (Capacitive Moisture)</td>
+            <td>{{ cmoisture_floor }}</td>
+        </tr>
+        <tr>
+            <td>Ground Water Level (Capacitive Moisture)</td>
+            <td>{{ cmoisture_ground }} m</td>
+        </tr>
+        <tr>
+            <td>Annual Precipitation</td>
+            <td>{{ annualprecip }} mm</td>
+        </tr>
+        <tr>
+            <td>Soil pH Level (Resistive Moisture, Texture, Tempature)</td>
+            <td>{{ soil_ph }}</td>
+        </tr>
+        <tr>
+            <td>Soil Porosity (Resistive Moisture, Texture, Tempature)</td>
+            <td>{{ porosity }} %</td>
+        </tr>
+        <tr>
+            <td>Soil pH Level (Capacitive Moisture, Texture, Tempature)</td>
+            <td>{{ csoil_ph }}</td>
+        </tr>
+        <tr>
+            <td>Soil Porosity (Capacitive Moisture, Texture, Tempature)</td>
+            <td>{{ cporosity }} %</td>
+        </tr>
+        <tr>
+            <td>Ground Water level (Resistive Moisture - Porosity, Soil Texture, Soil Temp, Soil depth, Annual precip, Land Use)</td>
+            <td>{{ ground1 }} m</td>
+        </tr>
+        <tr>
+            <td>Ground Water level (Capacitive Moisture - Porosity, Soil Texture, Soil Temp, Soil depth, Annual precip, Land Use)</td>
+            <td>{{ ground2 }} m</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center; background-color: #444;">{{ nooffloors }}</td>
+        </tr>
+    </table>
+</body>
+</html>
