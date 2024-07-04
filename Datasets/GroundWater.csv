@@ -1,0 +1,151 @@
+Site ID,Soil Texture,Porosity (%),Permeability (cm/hr),Soil Depth (m),Organic Matter (%),Soil Temp (°C),Mineral Composition,Slope (%),Vegetation Cover (%),Land Use,Annual Precipitation (mm),Hydraulic Conductivity (m/day),Capillary Rise (m),Groundwater Extraction (m³/day),Distance to Surface Water (m),Aquifer Thickness (m),Groundwater Level (m)
+1,Sandy Loam,45,5.2,10,2.5,18,Quartz Feldspar,2,70,Agricultural,1200,10,0.3,100,500,30,3.5
+2,Clay Loam,35,0.8,15,4.0,20,Kaolinite Illite,1,80,Urban,800,1.2,1.0,200,200,50,5.0
+3,Silty Clay,40,0.5,8,3.2,22,Montmorillonite Quartz,5,60,Forest,1500,0.8,0.5,50,1000,20,4.0
+4,Loam,42,3.0,12,3.5,19,Illite Quartz,3,50,Mixed,1100,5.0,0.7,150,300,40,2.8
+5,Sandy,50,8.0,20,1.0,21,Quartz Feldspar,1,90,Agricultural,900,15,0.2,80,400,25,6.0
+6,Silty Loam,38,2.5,14,2.8,18,Feldspar Kaolinite,4,55,Urban,950,4.0,0.6,120,600,35,3.2
+7,Clay,30,0.3,18,5.0,17,Illite Montmorillonite,6,40,Agricultural,1300,0.5,1.2,250,150,45,5.5
+8,Sandy Clay Loam,37,1.5,11,2.0,20,Quartz Illite,2,65,Forest,1400,3.5,0.4,70,800,28,4.8
+9,Loamy Sand,48,6.0,9,1.5,22,Quartz Feldspar,3,75,Agricultural,1000,12,0.3,90,450,32,3.9
+10,Sandy Loam,45,5.0,13,2.3,21,Feldspar Quartz,1,70,Urban,1050,9.5,0.4,130,350,37,4.1
+11,Clay Loam,36,0.7,16,4.1,19,Kaolinite Illite,5,80,Forest,1250,1.1,1.1,210,250,52,5.3
+12,Silty Clay,39,0.6,10,3.4,18,Montmorillonite Feldspar,4,55,Agricultural,1350,0.9,0.6,60,700,26,4.5
+13,Loam,43,3.1,12,3.6,20,Illite Quartz,2,60,Mixed,1150,5.1,0.8,160,320,42,3.0
+14,Sandy,51,8.5,22,1.1,23,Quartz Feldspar,1,85,Agricultural,850,16,0.2,90,500,24,6.5
+15,Silty Loam,37,2.4,13,3.0,19,Feldspar Kaolinite,3,50,Urban,980,3.9,0.5,140,550,33,3.3
+16,Clay,31,0.2,19,5.2,18,Illite Montmorillonite,6,35,Agricultural,1280,0.4,1.3,260,100,47,5.7
+17,Sandy Clay Loam,38,1.6,12,2.1,21,Quartz Illite,2,60,Forest,1420,3.6,0.3,80,750,29,4.9
+18,Loamy Sand,47,5.8,8,1.4,23,Quartz Feldspar,4,70,Agricultural,1020,11,0.3,100,400,31,4.0
+19,Sandy Loam,46,4.8,14,2.4,20,Feldspar Quartz,2,65,Urban,1100,9.2,0.4,140,330,36,4.2
+20,Clay Loam,34,0.9,17,4.2,18,Kaolinite Illite,5,75,Forest,1270,1.3,1.0,220,200,51,5.4
+21,Silty Clay,41,0.4,9,3.3,17,Montmorillonite Feldspar,3,60,Agricultural,1330,0.7,0.7,70,600,27,4.6
+22,Loam,44,3.2,11,3.7,21,Illite Quartz,2,55,Mixed,1160,5.3,0.7,170,280,43,3.1
+23,Sandy,49,8.2,21,1.2,22,Quartz Feldspar,1,80,Agricultural,860,15,0.2,95,450,23,6.6
+24,Silty Loam,39,2.6,15,3.1,18,Feldspar Kaolinite,3,45,Urban,970,4.2,0.5,150,520,34,3.4
+25,Clay,32,0.4,18,5.1,16,Illite Montmorillonite,5,35,Agricultural,1290,0.6,1.2,270,120,46,5.8
+26,Sandy Clay Loam,37,1.8,10,2.2,20,Quartz Illite,2,55,Forest,1410,3.7,0.3,85,700,30,5.0
+27,Loamy Sand,46,6.3,9,1.6,21,Quartz Feldspar,3,75,Agricultural,990,11.5,0.3,110,380,32,4.1
+28,Sandy Loam,44,4.5,13,2.5,19,Feldspar Quartz,1,60,Urban,1070,9.0,0.4,145,300,35,4.3
+29,Clay Loam,33,0.7,16,4.3,17,Kaolinite Illite,4,70,Forest,1260,1.2,1.1,230,220,50,5.5
+30,Silty Clay,42,0.5,11,3.5,18,Montmorillonite Feldspar,2,60,Agricultural,1340,0.8,0.6,75,580,28,4.7
+31,Loam,41,3.0,12,3.6,20,Illite Quartz,3,50,Mixed,1130,5.2,0.7,180,260,41,3.2
+32,Sandy,50,8.7,19,1.3,22,Quartz Feldspar,1,85,Agricultural,870,15.5,0.2,105,470,25,6.7
+33,Silty Loam,40,2.7,14,3.2,18,Feldspar Kaolinite,2,45,Urban,960,4.1,0.5,155,510,33,3.5
+34,Clay,29,0.3,17,5.0,17,Illite Montmorillonite,6,30,Agricultural,1310,0.5,1.3,280,110,48,5.9
+35,Sandy Clay Loam,38,1.5,11,2.3,19,Quartz Illite,3,50,Forest,1430,3.4,0.3,90,690,31,5.1
+36,Loamy Sand,45,6.1,10,1.7,20,Quartz Feldspar,4,70,Agricultural,1010,10.8,0.3,115,370,30,4.2
+37,Sandy Loam,47,5.1,12,2.6,21,Feldspar Quartz,1,65,Urban,1080,9.3,0.4,150,320,37,4.4
+38,Clay Loam,36,0.8,15,4.4,16,Kaolinite Illite,5,75,Forest,1240,1.4,1.0,240,230,49,5.6
+39,Silty Clay,43,0.6,10,3.6,17,Montmorillonite Feldspar,3,55,Agricultural,1320,0.9,0.6,80,590,27,4.8
+40,Loam,40,3.4,13,3.5,19,Illite Quartz,2,50,Mixed,1120,5.4,0.8,190,270,40,3.3
+41,Sandy,51,8.4,20,1.2,23,Quartz Feldspar,1,90,Agricultural,880,16,0.2,110,480,24,6.8
+42,Silty Loam,39,2.5,13,3.0,18,Feldspar Kaolinite,4,45,Urban,950,3.8,0.5,160,500,34,3.6
+43,Clay,33,0.5,16,5.1,16,Illite Montmorillonite,5,35,Agricultural,1300,0.7,1.2,290,130,47,6.0
+44,Sandy Clay Loam,35,1.6,12,2.2,20,Quartz Illite,2,55,Forest,1400,3.6,0.3,95,710,29,5.2
+45,Loamy Sand,47,6.5,9,1.5,22,Quartz Feldspar,4,75,Agricultural,1000,11.7,0.3,120,360,31,4.3
+46,Sandy Loam,46,4.7,14,2.4,21,Feldspar Quartz,2,70,Urban,1090,9.1,0.4,155,340,36,4.5
+47,Clay Loam,34,0.6,18,4.5,19,Kaolinite Illite,6,65,Forest,1220,1.5,1.0,250,210,50,5.7
+48,Silty Clay,41,0.4,12,3.4,16,Montmorillonite Feldspar,3,50,Agricultural,1310,0.6,0.7,85,600,26,4.9
+49,Loam,42,3.3,11,3.8,18,Illite Quartz,2,55,Mixed,1140,5.5,0.8,200,290,42,3.4
+50,Sandy,52,8.9,20,1.0,23,Quartz Feldspar,1,85,Agricultural,890,16.2,0.2,115,460,23,6.9
+51,Sandy Loam,44,5.3,12,2.6,19,Quartz Feldspar,3,68,Agricultural,1180,9.8,0.3,110,490,31,3.6
+52,Clay Loam,37,0.9,16,4.1,21,Kaolinite Illite,2,75,Urban,820,1.4,1.1,210,210,51,5.2
+53,Silty Clay,42,0.6,9,3.3,23,Montmorillonite Quartz,6,62,Forest,1480,1.0,0.6,55,1010,21,4.1
+54,Loam,43,3.2,11,3.4,20,Illite Quartz,4,52,Mixed,1120,5.5,0.8,140,310,39,2.9
+55,Sandy,52,8.3,21,1.1,22,Quartz Feldspar,2,88,Agricultural,880,14.8,0.3,85,410,24,6.1
+56,Silty Loam,40,2.6,15,3.0,19,Feldspar Kaolinite,5,58,Urban,960,4.3,0.5,125,610,36,3.4
+57,Clay,31,0.4,17,4.8,16,Illite Montmorillonite,7,38,Agricultural,1330,0.6,1.2,265,160,46,5.6
+58,Sandy Clay Loam,39,1.7,10,2.2,22,Quartz Illite,3,67,Forest,1380,3.8,0.4,75,820,29,4.9
+59,Loamy Sand,49,6.2,8,1.4,24,Quartz Feldspar,5,73,Agricultural,1020,11.2,0.4,95,460,33,4.0
+60,Sandy Loam,46,5.1,13,2.4,21,Feldspar Quartz,2,71,Urban,1040,9.7,0.5,135,340,38,4.3
+61,Clay Loam,35,0.8,17,4.4,18,Kaolinite Illite,6,77,Forest,1230,1.3,1.2,220,240,53,5.4
+62,Silty Clay,41,0.5,11,3.6,17,Montmorillonite Feldspar,4,57,Agricultural,1320,0.9,0.7,65,680,27,4.7
+63,Loam,44,3.4,13,3.5,20,Illite Quartz,3,54,Mixed,1160,5.6,0.8,170,290,43,3.2
+64,Sandy,48,8.6,23,1.3,24,Quartz Feldspar,2,89,Agricultural,860,16.5,0.2,95,530,26,6.4
+65,Silty Loam,38,2.8,14,3.2,20,Feldspar Kaolinite,4,56,Urban,980,4.0,0.6,145,580,35,3.5
+66,Clay,32,0.3,18,5.1,19,Illite Montmorillonite,7,33,Agricultural,1260,0.7,1.4,275,140,48,5.8
+67,Sandy Clay Loam,37,1.9,12,2.4,21,Quartz Illite,3,64,Forest,1400,3.5,0.3,80,770,28,5.1
+68,Loamy Sand,47,5.9,10,1.6,22,Quartz Feldspar,5,69,Agricultural,1000,10.5,0.3,110,370,32,4.1
+69,Sandy Loam,45,5.0,11,2.5,22,Feldspar Quartz,1,70,Urban,1060,9.2,0.4,150,360,37,4.5
+70,Clay Loam,34,0.7,19,4.5,17,Kaolinite Illite,6,80,Forest,1210,1.1,1.3,240,190,52,5.7
+71,Silty Clay,40,0.4,10,3.7,18,Montmorillonite Feldspar,3,59,Agricultural,1300,0.8,0.8,70,640,28,4.6
+72,Loam,42,3.1,12,3.6,21,Illite Quartz,2,60,Mixed,1180,5.3,0.9,190,310,41,3.4
+73,Sandy,51,8.2,22,1.2,25,Quartz Feldspar,1,91,Agricultural,870,15.2,0.2,100,490,25,6.7
+74,Silty Loam,39,2.7,13,2.9,18,Feldspar Kaolinite,4,54,Urban,970,3.9,0.5,155,600,34,3.6
+75,Clay,30,0.2,20,5.3,17,Illite Montmorillonite,8,30,Agricultural,1280,0.5,1.5,285,120,47,5.9
+76,Sandy Clay Loam,36,1.8,11,2.1,23,Quartz Illite,2,62,Forest,1420,3.7,0.4,85,750,30,5.0
+77,Loamy Sand,48,6.4,9,1.5,21,Quartz Feldspar,4,72,Agricultural,980,12.3,0.3,120,420,31,4.2
+78,Sandy Loam,44,4.9,14,2.7,21,Feldspar Quartz,1,66,Urban,1080,8.9,0.4,140,350,36,4.4
+79,Clay Loam,36,0.9,15,4.6,20,Kaolinite Illite,5,76,Forest,1240,1.5,1.2,230,260,49,5.5
+80,Silty Clay,41,0.4,11,3.8,18,Montmorillonite Feldspar,3,61,Agricultural,1310,0.8,0.7,75,620,29,4.9
+81,Loam,43,3.2,11,3.3,20,Illite Quartz,2,53,Mixed,1150,5.4,0.8,180,300,40,3.3
+82,Sandy,50,8.1,24,1.0,23,Quartz Feldspar,1,93,Agricultural,890,15.6,0.3,105,470,27,6.6
+83,Silty Loam,37,2.4,12,3.1,19,Feldspar Kaolinite,5,57,Urban,940,4.2,0.6,130,590,33,3.7
+84,Clay,33,0.3,17,4.9,18,Illite Montmorillonite,7,34,Agricultural,1270,0.7,1.3,270,130,46,5.8
+85,Sandy Clay Loam,35,1.7,10,2.0,22,Quartz Illite,4,60,Forest,1390,3.4,0.3,90,800,28,5.2
+86,Loamy Sand,46,6.1,8,1.7,24,Quartz Feldspar,5,71,Agricultural,990,10.9,0.4,115,450,32,4.0
+87,Sandy Loam,47,5.2,13,2.6,20,Feldspar Quartz,1,68,Urban,1070,9.6,0.4,145,330,35,4.5
+88,Clay Loam,35,0.8,16,4.3,19,Kaolinite Illite,6,78,Forest,1250,1.2,1.1,220,230,50,5.6
+89,Silty Clay,43,0.5,10,3.5,17,Montmorillonite Feldspar,4,60,Agricultural,1290,0.9,0.6,70,660,27,4.8
+90,Loam,41,3.0,12,3.5,21,Illite Quartz,3,55,Mixed,1130,5.2,0.7,170,320,42,3.5
+91,Sandy,51,8.4,23,1.1,22,Quartz Feldspar,2,90,Agricultural,860,16.1,0.2,115,480,26,6.5
+92,Silty Loam,38,2.5,15,3.0,20,Feldspar Kaolinite,3,56,Urban,950,3.7,0.5,150,570,34,3.8
+93,Clay,32,0.4,19,5.2,16,Illite Montmorillonite,8,32,Agricultural,1290,0.6,1.4,280,150,48,6.0
+94,Sandy Clay Loam,36,1.6,11,2.3,21,Quartz Illite,2,64,Forest,1410,3.5,0.3,85,780,30,5.0
+95,Loamy Sand,45,6.0,9,1.6,23,Quartz Feldspar,4,74,Agricultural,1000,11.4,0.4,125,430,31,4.1
+96,Sandy Loam,46,4.8,14,2.5,22,Feldspar Quartz,1,69,Urban,1050,8.7,0.4,140,340,37,4.4
+97,Clay Loam,33,0.7,18,4.7,17,Kaolinite Illite,6,79,Forest,1220,1.3,1.2,235,200,51,5.8
+98,Silty Clay,40,0.4,12,3.4,18,Montmorillonite Feldspar,3,63,Agricultural,1330,0.7,0.7,80,630,28,4.7
+99,Loam,42,3.1,10,3.7,20,Illite Quartz,2,57,Mixed,1140,5.5,0.8,160,310,41,3.1
+100,Sandy,52,8.5,20,1.2,24,Quartz Feldspar,2,88,Agricultural,870,16.4,0.2,100,500,25,6.9
+101,Sandy Loam,45,5.4,12,2.7,20,Quartz Feldspar,3,70,Agricultural,1170,9.9,0.3,105,500,31,3.7
+102,Clay Loam,38,0.8,16,4.2,22,Kaolinite Illite,2,78,Urban,810,1.5,1.0,200,220,52,5.3
+103,Silty Clay,43,0.7,9,3.4,24,Montmorillonite Quartz,7,64,Forest,1470,1.1,0.6,60,1020,22,4.2
+104,Loam,44,3.3,12,3.5,21,Illite Quartz,4,53,Mixed,1130,5.6,0.8,145,320,40,3.0
+105,Sandy,53,8.4,21,1.0,24,Quartz Feldspar,2,90,Agricultural,870,15.0,0.3,80,420,24,6.2
+106,Silty Loam,41,2.7,15,3.1,20,Feldspar Kaolinite,5,60,Urban,950,4.4,0.5,120,620,37,3.3
+107,Clay,33,0.5,17,4.9,17,Illite Montmorillonite,8,40,Agricultural,1340,0.7,1.2,260,170,47,5.7
+108,Sandy Clay Loam,40,1.8,10,2.3,23,Quartz Illite,4,66,Forest,1370,3.9,0.4,70,850,29,5.0
+109,Loamy Sand,48,6.0,8,1.5,25,Quartz Feldspar,6,75,Agricultural,990,11.4,0.4,90,470,33,4.1
+110,Sandy Loam,47,5.2,13,2.6,22,Feldspar Quartz,1,72,Urban,1030,9.5,0.5,140,350,38,4.4
+111,Clay Loam,36,0.9,17,4.3,19,Kaolinite Illite,7,82,Forest,1220,1.4,1.1,230,250,50,5.6
+112,Silty Clay,42,0.6,10,3.6,24,Montmorillonite Feldspar,5,58,Agricultural,1310,0.9,0.7,70,700,28,4.8
+113,Loam,45,3.4,13,3.4,21,Illite Quartz,3,57,Mixed,1170,5.7,0.8,160,300,42,3.3
+114,Sandy,49,8.1,23,1.2,25,Quartz Feldspar,2,92,Agricultural,850,16.7,0.2,90,500,26,6.5
+115,Silty Loam,38,2.9,14,3.0,21,Feldspar Kaolinite,6,58,Urban,930,4.6,0.6,140,560,36,3.6
+116,Clay,32,0.4,18,5.0,18,Illite Montmorillonite,9,36,Agricultural,1250,0.8,1.3,270,160,45,5.8
+117,Sandy Clay Loam,38,1.9,11,2.2,24,Quartz Illite,5,68,Forest,1390,3.6,0.3,75,800,30,5.1
+118,Loamy Sand,47,6.1,9,1.6,25,Quartz Feldspar,7,77,Agricultural,1010,11.1,0.3,105,440,32,4.2
+119,Sandy Loam,46,5.1,12,2.7,23,Feldspar Quartz,1,71,Urban,1060,9.3,0.4,150,330,36,4.5
+120,Clay Loam,34,0.8,18,4.6,20,Kaolinite Illite,8,85,Forest,1200,1.6,1.2,240,210,51,5.8
+121,Silty Clay,40,0.5,11,3.7,25,Montmorillonite Feldspar,6,65,Agricultural,1300,0.9,0.8,75,670,28,4.9
+122,Loam,44,3.1,11,3.6,22,Illite Quartz,4,58,Mixed,1150,5.6,0.9,170,310,41,3.2
+123,Sandy,50,8.3,24,1.1,25,Quartz Feldspar,2,91,Agricultural,860,15.3,0.3,100,490,25,6.7
+124,Silty Loam,39,2.6,15,3.0,21,Feldspar Kaolinite,7,55,Urban,970,4.1,0.6,145,580,34,3.7
+125,Clay,31,0.3,19,5.1,18,Illite Montmorillonite,9,32,Agricultural,1270,0.6,1.4,280,140,47,5.9
+126,Sandy Clay Loam,37,1.7,10,2.0,24,Quartz Illite,5,62,Forest,1400,3.8,0.4,80,780,28,5.0
+127,Loamy Sand,48,6.2,8,1.5,25,Quartz Feldspar,7,80,Agricultural,1000,11.6,0.4,110,460,32,4.0
+128,Sandy Loam,45,5.0,11,2.6,23,Feldspar Quartz,2,69,Urban,1070,8.8,0.4,140,340,37,4.4
+129,Clay Loam,35,0.7,17,4.5,20,Kaolinite Illite,9,87,Forest,1210,1.2,1.1,230,220,50,5.7
+130,Silty Clay,41,0.4,12,3.5,25,Montmorillonite Feldspar,7,67,Agricultural,1290,0.8,0.7,80,640,29,4.8
+131,Loam,43,3.0,12,3.5,22,Illite Quartz,5,56,Mixed,1130,5.3,0.8,170,300,42,3.5
+132,Sandy,51,8.4,22,1.2,25,Quartz Feldspar,3,93,Agricultural,870,16.2,0.2,105,480,26,6.6
+133,Silty Loam,37,2.5,12,3.1,21,Feldspar Kaolinite,6,59,Urban,940,4.3,0.5,135,600,33,3.8
+134,Clay,33,0.4,18,5.0,19,Illite Montmorillonite,10,38,Agricultural,1260,0.7,1.3,270,150,46,5.8
+135,Sandy Clay Loam,35,1.6,11,2.3,25,Quartz Illite,6,65,Forest,1410,3.6,0.3,85,790,30,5.0
+136,Loamy Sand,46,6.0,9,1.7,26,Quartz Feldspar,8,78,Agricultural,990,11.2,0.4,115,450,32,4.1
+137,Sandy Loam,47,5.3,14,2.5,24,Feldspar Quartz,2,74,Urban,1060,9.7,0.4,150,330,36,4.5
+138,Clay Loam,34,0.8,16,4.4,21,Kaolinite Illite,10,88,Forest,1200,1.3,1.2,240,200,51,5.8
+139,Silty Clay,40,0.5,10,3.6,26,Montmorillonite Feldspar,8,63,Agricultural,1300,0.8,0.8,75,650,28,4.9
+140,Loam,44,3.1,11,3.5,23,Illite Quartz,5,55,Mixed,1140,5.5,0.8,160,310,41,3.1
+141,Sandy,49,8.2,23,1.1,26,Quartz Feldspar,3,90,Agricultural,860,16.5,0.2,100,490,25,6.7
+142,Silty Loam,38,2.6,15,3.0,22,Feldspar Kaolinite,7,58,Urban,960,4.2,0.6,145,580,34,3.7
+143,Clay,32,0.3,19,5.1,20,Illite Montmorillonite,11,35,Agricultural,1280,0.6,1.4,280,140,47,5.9
+144,Sandy Clay Loam,37,1.7,10,2.0,26,Quartz Illite,6,60,Forest,1400,3.7,0.4,80,790,28,5.1
+145,Loamy Sand,48,6.1,8,1.5,26,Quartz Feldspar,8,79,Agricultural,1000,11.5,0.4,110,470,32,4.0
+146,Sandy Loam,46,5.1,12,2.6,24,Feldspar Quartz,2,70,Urban,1070,9.0,0.4,140,340,37,4.4
+147,Clay Loam,35,0.7,18,4.5,21,Kaolinite Illite,11,84,Forest,1210,1.1,1.1,230,220,50,5.7
+148,Silty Clay,41,0.4,12,3.5,26,Montmorillonite Feldspar,8,66,Agricultural,1290,0.7,0.7,80,640,29,4.8
+149,Loam,43,3.0,12,3.5,23,Illite Quartz,5,56,Mixed,1130,5.2,0.8,170,300,42,3.5
+150,Sandy,51,8.3,22,1.2,26,Quartz Feldspar,3,92,Agricultural,870,16.1,0.2,105,480,26,6.6
